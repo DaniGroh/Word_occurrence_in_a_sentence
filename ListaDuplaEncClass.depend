@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1444072718 source:c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\elemento.cpp
+	"elemento.h"
+
+1444877491 c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\elemento.h
+	<iostream>
+
+1444072153 source:c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\listaenc.cpp
+	"ListaEnc.h"
+	"elemento.h"
+	<cstring>
+	<iostream>
+
+1444930401 c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\listaenc.h
+	"elemento.h"
+	<iostream>
+
+1444990873 source:c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\listaencpalavra.cpp
+	"elementoPalavra.h"
+	<cstring>
+	<iostream>
+	"ListaEncPalavra.h"
+	<fstream>
+
+1444975703 c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\elementopalavra.h
+	<iostream>
+	"elemento.h"
+	"ListaEnc.h"
+
+1444975703 c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\listaencpalavra.h
+	"elementoPalavra.h"
+	<iostream>
+
+1444989877 source:c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\main.cpp
+	<iostream>
+	"ListaEnc.h"
+	"elemento.h"
+	"ListaEncPalavra.h"
+	"elementoPalavra.h"
+
+1444975703 source:c:\users\comedia\documents\unifei\eco10\listaduplaencclass- trabalho\elementopalavra.cpp
+	"elementoPalavra.h"
+	"cstring"
+	"elemento.h"
+	"ListaEnc.h"
+
+1444072720 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\elemento.cpp
+	"elemento.h"
+
+1444877492 c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\elemento.h
+	<iostream>
+
+1444975704 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\elementopalavra.cpp
+	"elementoPalavra.h"
+	"cstring"
+	"elemento.h"
+	"ListaEnc.h"
+
+1445026146 c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\elementopalavra.h
+	<iostream>
+
+1444930402 c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\listaenc.h
+	"elemento.h"
+	<iostream>
+
+1444072154 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\listaenc.cpp
+	"ListaEnc.h"
+	"elemento.h"
+	<cstring>
+	<iostream>
+
+1445027290 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\listaencpalavra.cpp
+	"elementoPalavra.h"
+	<cstring>
+	<iostream>
+	"ListaEncPalavra.h"
+	<fstream>
+
+1445009851 c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\listaencpalavra.h
+	"elementoPalavra.h"
+	<iostream>
+
+1445008838 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho(2)\listaduplaencclass- trabalho\main.cpp
+	<iostream>
+	"ListaEncPalavra.h"
+	"elementoPalavra.h"
+
+1445039181 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\elementopalavra.cpp
+	"elementoPalavra.h"
+	"cstring"
+	"elemento.h"
+	"ListaEnc.h"
+
+1445026146 c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\elementopalavra.h
+	<iostream>
+
+1444877492 c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\elemento.h
+	<iostream>
+
+1444930402 c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\listaenc.h
+	"elemento.h"
+	<iostream>
+
+1445033506 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\listaencpalavra.cpp
+	"elementoPalavra.h"
+	<cstring>
+	<iostream>
+	"ListaEncPalavra.h"
+	<fstream>
+
+1445033506 c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\listaencpalavra.h
+	"elementoPalavra.h"
+	<iostream>
+
+1445033091 source:c:\users\daniel groh\desktop\listaduplaencclass- trabalho\listaduplaencclass- trabalho\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string.h>
+	"ListaEncPalavra.h"
+	"elementoPalavra.h"
+
+1445041950 source:c:\users\user\desktop\trabalho eco 010\elementopalavra.cpp
+	"elementoPalavra.h"
+	"cstring"
+	"elemento.h"
+	"ListaEnc.h"
+
+1445041950 c:\users\user\desktop\trabalho eco 010\elementopalavra.h
+	<iostream>
+
+1444877492 c:\users\user\desktop\trabalho eco 010\elemento.h
+	<iostream>
+
+1444930402 c:\users\user\desktop\trabalho eco 010\listaenc.h
+	"elemento.h"
+	<iostream>
+
+1445044261 source:c:\users\user\desktop\trabalho eco 010\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string.h>
+	"ListaEncPalavra.h"
+	"elementoPalavra.h"
+
+1445044485 c:\users\user\desktop\trabalho eco 010\listaencpalavra.h
+	"elementoPalavra.h"
+	<iostream>
+
+1445044485 source:c:\users\user\desktop\trabalho eco 010\listaencpalavra.cpp
+	"elementoPalavra.h"
+	<cstring>
+	<iostream>
+	"ListaEncPalavra.h"
+	<fstream>
+
+1445038350 source:c:\users\daniel groh\documents\unifei\4 periodo\eco 010\trabalho-2-indice-remissivo\trabalho eco 010 - final\elementopalavra.cpp
+	"elementoPalavra.h"
+	"cstring"
+	"elemento.h"
+	"ListaEnc.h"
+
+1445038350 c:\users\daniel groh\documents\unifei\4 periodo\eco 010\trabalho-2-indice-remissivo\trabalho eco 010 - final\elementopalavra.h
+	<iostream>
+
+1445040885 source:c:\users\daniel groh\documents\unifei\4 periodo\eco 010\trabalho-2-indice-remissivo\trabalho eco 010 - final\listaencpalavra.cpp
+	"elementoPalavra.h"
+	<cstring>
+	<iostream>
+	"ListaEncPalavra.h"
+	<fstream>
+
+1445040885 c:\users\daniel groh\documents\unifei\4 periodo\eco 010\trabalho-2-indice-remissivo\trabalho eco 010 - final\listaencpalavra.h
+	"elementoPalavra.h"
+	<iostream>
+
+1523455798 source:c:\users\daniel groh\documents\unifei\4 periodo\eco 010\trabalho-2-indice-remissivo\trabalho eco 010 - final\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string.h>
+	"ListaEncPalavra.h"
+	"elementoPalavra.h"
+
